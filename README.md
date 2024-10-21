@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DestinoDev
+- 👀 Interests: System Automation, Website Creation, Data Analysis
+- 🌱 I’m currently learning Python as my first programming language!
+- 💞️ I’m looking to collaborate on anything! Ready to learn!
+- 📫 Send me a message here on GitHub!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am currently creating a digital personal training brand
